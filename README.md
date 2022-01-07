@@ -1,6 +1,9 @@
-![image](https://user-images.githubusercontent.com/40546398/148454395-2e4dab2d-3d28-40e8-928f-d99dce4b9c17.png)
+### Hi there, my name is Jesus! <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="30">
 
-### Hi there, my name is Jesus! 👋
+![image](https://user-images.githubusercontent.com/40546398/148458684-2659a8f1-c824-4328-936e-40be8cc6d48c.png)
+
+[![Web Portfolio](https://img.shields.io/badge/-💻_Web_Portfolio-orange?)](https://www.jgonzalez.dev)
+[![Linkedin: jesus-gonzalez](https://img.shields.io/badge/-gonzalez03t-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gonzalez03t/)](https://www.linkedin.com/in/gonzalez03t/)
 
 <!--
 **gonzalez03t/gonzalez03t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
