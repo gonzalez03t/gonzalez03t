@@ -7,7 +7,7 @@
 [![Java](https://img.shields.io/badge/Java-Fan-FAC151.svg?logo=java&logoWidth=20&logoColor=red)](https://github.com/gonzalez03t)
 [![GitHub gonzalez03td](https://img.shields.io/github/followers/gonzalez03t?label=follow&style=social)](https://github.com/gonzalez03t)
 
-💬 I am a software developer based in Fort Lauderdale, Florida. Writing code is my passion! I have built applications using JavaScript, TypeScript, ReactJS, Gatsby, NodeJS, C++, and Java. I recently graduated from the University of Florida with a Bachelor of Science in Computer Science. My current goal is to land a full-time position where I can continue building good quality software. 
+💬 I am a software developer based in Fort Lauderdale, Florida. Writing code is my passion! I have built applications using JavaScript, TypeScript, ReactJS, GatsbyJS, NodeJS, C++, and Java. I graduated from the University of Florida with a Bachelor of Science in Computer Science. My current goal is to continue growing as a Software Developer and continue building good web and mobile applications.  
 
 #### 📫 How to reach me:
 
@@ -19,13 +19,14 @@ You can view some of my work on my web portfolio. You can also reach out to me o
 
 #### 🔭 Languages and tools:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
