@@ -1,4 +1,4 @@
-### Hi there, my name is Jesus! <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="30">
+### Hi there, my name is Jesus Gonzalez! <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="30">
 
 <img src="https://user-images.githubusercontent.com/40546398/148570918-43c0801c-9f68-4073-bd6c-bc3d4495eabb.gif" width="1000" height="80">
 
