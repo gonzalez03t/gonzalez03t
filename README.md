@@ -3,8 +3,8 @@
 <img src="https://user-images.githubusercontent.com/40546398/148570918-43c0801c-9f68-4073-bd6c-bc3d4495eabb.gif" width="1000" height="80">
 
 [![React](https://img.shields.io/badge/React-Fan-FAC151.svg?logo=react&logoWidth=20)](https://github.com/gonzalez03t)
+[![Javascript](https://img.shields.io/badge/JavaScript-Fan-FAC151.svg?logo=javascript&logoWidth=20&logoColor=red)](https://github.com/gonzalez03t)
 [![C++](https://img.shields.io/badge/C++-Fan-FAC151.svg?logo=cplusplus&logoWidth=20&logoColor=blue)](https://github.com/gonzalez03t)
-[![Java](https://img.shields.io/badge/Java-Fan-FAC151.svg?logo=java&logoWidth=20&logoColor=red)](https://github.com/gonzalez03t)
 [![GitHub gonzalez03td](https://img.shields.io/github/followers/gonzalez03t?label=follow&style=social)](https://github.com/gonzalez03t)
 
 💬 I am a software developer based in Fort Lauderdale, Florida. Writing code is my passion! I have built applications using JavaScript, TypeScript, ReactJS, GatsbyJS, NodeJS, C++, and Java. I graduated from the University of Florida with a Bachelor of Science in Computer Science. My current goal is to continue growing as a Software Developer and continue building good web and mobile applications.  
