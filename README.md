@@ -7,7 +7,7 @@
 [![Java](https://img.shields.io/badge/Java-Fan-FAC151.svg?logo=java&logoWidth=20&logoColor=red)](https://github.com/gonzalez03t)
 [![GitHub gonzalez03td](https://img.shields.io/github/followers/gonzalez03t?label=follow&style=social)](https://github.com/gonzalez03t)
 
-💬 I am a software developer based in Fort Lauderdale, Florida. Writing code is my passion! I have built applications using Java, C++, Python, React, and Node.js. I recently graduated from the University of Florida with a Bachelor of Science in Computer Science. My current goal is to land a full-time position where I can continue building good quality software. 
+💬 I am a software developer based in Fort Lauderdale, Florida. Writing code is my passion! I have built applications using JavaScript, TypeScript, ReactJS, Gatsby, NodeJS, C++, and Java. I recently graduated from the University of Florida with a Bachelor of Science in Computer Science. My current goal is to land a full-time position where I can continue building good quality software. 
 
 #### 📫 How to reach me:
 
