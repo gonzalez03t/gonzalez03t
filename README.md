@@ -4,7 +4,7 @@
 
 [![React](https://img.shields.io/badge/React-Fan-FAC151.svg?logo=react&logoWidth=20)](https://github.com/gonzalez03t)
 [![Javascript](https://img.shields.io/badge/JavaScript-Fan-FAC151.svg?logo=javascript&logoWidth=20&logoColor=yellow)](https://github.com/gonzalez03t)
-[![CSS](https://img.shields.io/badge/css-Fan-FAC151.svg?logo=css&logoWidth=20&logoColor=red)](https://github.com/gonzalez03t)
+[![CSS](https://img.shields.io/badge/CSS-Fan-FAC151.svg?logo=CSS&logoWidth=20&logoColor=red)](https://github.com/gonzalez03t)
 [![C++](https://img.shields.io/badge/C++-Fan-FAC151.svg?logo=cplusplus&logoWidth=20&logoColor=blue)](https://github.com/gonzalez03t)
 [![GitHub gonzalez03td](https://img.shields.io/github/followers/gonzalez03t?label=follow&style=social)](https://github.com/gonzalez03t)
 
