@@ -7,7 +7,8 @@
 [![C++](https://img.shields.io/badge/C++-Fan-FAC151.svg?logo=cplusplus&logoWidth=20&logoColor=blue)](https://github.com/gonzalez03t)
 [![GitHub gonzalez03td](https://img.shields.io/github/followers/gonzalez03t?label=follow&style=social)](https://github.com/gonzalez03t)
 
-💬 I am a software developer based in Fort Lauderdale, Florida. Writing code is my passion! I have built applications using JavaScript, TypeScript, ReactJS, GatsbyJS, NodeJS, C++, and Java. I graduated from the University of Florida with a Bachelor of Science in Computer Science. My current goal is to continue growing as a Software Developer and continue building good web and mobile applications.  
+💬 I’m a Senior Software Engineer based in Fort Lauderdale, Florida, specializing in cloud architecture, DevSecOps, and large-scale data and security platforms. I build and maintain production systems using technologies like Python, C#, JavaScript/TypeScript, React, Node.js, Kubernetes, Terraform, and Google Cloud.
+I’m passionate about automation, scalable infrastructure, and creating reliable, high-impact applications. On the side, I’m building a full-stack plant and landscape platform using Next.js, FastAPI, and PostgreSQL. Always learning, always building.  
 
 #### 📫 How to reach me:
 
