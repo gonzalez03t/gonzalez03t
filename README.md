@@ -2,14 +2,12 @@
 
 <img src="https://user-images.githubusercontent.com/40546398/148570918-43c0801c-9f68-4073-bd6c-bc3d4495eabb.gif" width="1000" height="80">
 
-[![Python](https://img.shields.io/badge/Python-Fan-3776AB.svg?logo=python&logoColor=white)](https://github.com/gonzalez03t)
-[![C#](https://img.shields.io/badge/C%23-Fan-239120.svg?logo=csharp&logoColor=white)](https://github.com/gonzalez03t)
-[![GCP](https://img.shields.io/badge/Google_Cloud-Fan-4285F4.svg?logo=googlecloud&logoColor=white)](https://github.com/gonzalez03t)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-Fan-326CE5.svg?logo=kubernetes&logoColor=white)](https://github.com/gonzalez03t)
-
-[![React](https://img.shields.io/badge/React-Fan-61DAFB.svg?logo=react&logoColor=black)](https://github.com/gonzalez03t)
-[![JavaScript](https://img.shields.io/badge/JavaScript-Fan-F7DF1E.svg?logo=javascript&logoColor=black)](https://github.com/gonzalez03t)
-[![C++](https://img.shields.io/badge/C++-Fan-00599C.svg?logo=cplusplus&logoColor=white)](https://github.com/gonzalez03t)
+[![Python](https://img.shields.io/badge/Python-Fan-FAC151.svg?logo=python&logoWidth=20)](https://github.com/gonzalez03t)
+[![C#](https://img.shields.io/badge/C%23-Fan-FAC151.svg?logo=csharp&logoWidth=20)](https://github.com/gonzalez03t)
+[![React](https://img.shields.io/badge/React-Fan-FAC151.svg?logo=react&logoWidth=20)](https://github.com/gonzalez03t)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Fan-FAC151.svg?logo=javascript&logoWidth=20)](https://github.com/gonzalez03t)
+[![GCP](https://img.shields.io/badge/GCP-Fan-FAC151.svg?logo=googlecloud&logoWidth=20)](https://github.com/gonzalez03t)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-Fan-FAC151.svg?logo=kubernetes&logoWidth=20)](https://github.com/gonzalez03t)
 
 [![GitHub followers](https://img.shields.io/github/followers/gonzalez03t?label=follow&style=social)](https://github.com/gonzalez03t)
 
@@ -30,7 +28,7 @@ Feel free to connect with me on LinkedIn or reach out directly via email. Always
 
 ### 🔧 Skills
 
-#### 🔭 Programming Languages:
+#### 🧠 Programming Languages
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C#"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"></code>
@@ -38,24 +36,24 @@ Feel free to connect with me on LinkedIn or reach out directly via email. Always
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++"></code>
 
-#### 🔭 Cloud & DevOps:
+#### ☁️ Cloud & DevOps
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" alt="GCP"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" alt="Kubernetes"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png" alt="Terraform"></code>
 
-#### 🔭 Back-End & Frameworks:
+#### 🛠 Back-End & Frameworks
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" alt="Django"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png" alt="Redis"></code>
 
-#### 🔭 Databases:
+#### 🗄️ Databases
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL"></code>
 
-#### 🔭 Front End:
+#### 🎨 Front End
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS3"></code>
