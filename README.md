@@ -21,7 +21,7 @@ Feel free to connect with me on LinkedIn or reach out directly via email. Always
 
 💬 Ask me about anything, I am happy to help!
 
-### 🔧 Languages & Tools
+### 🔧 Skills
 
 #### 🔭 Programming Languages:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"></code>
@@ -37,24 +37,18 @@ Feel free to connect with me on LinkedIn or reach out directly via email. Always
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png" alt="Terraform"></code>
 
----
-
-<!-- Back-End & Frameworks -->
+#### 🔭 Back-End & Frameworks:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" alt="Django"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png" alt="Redis"></code>
 
----
-
-<!-- Databases -->
+#### 🔭 Databases:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL"></code>
 
----
-
-<!-- Front-End -->
+#### 🔭 Front End:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS3"></code>
