@@ -12,7 +12,7 @@ I’m passionate about automation, scalable infrastructure, and creating reliabl
 
 #### 📫 How to reach me:
 
-You can view some of my work on my web portfolio. You can also reach out to me on LinkedIn or through email. 
+Feel free to connect with me on LinkedIn or reach out directly via email. Always open to interesting engineering discussions and opportunities. 
 
 <!-- LinkedIn badge -->
 [![LinkedIn: Jesus Gonzalez](https://img.shields.io/badge/LinkedIn-jesus--gonzalez-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-gonzalez-198363326/)
@@ -40,6 +40,47 @@ You can view some of my work on my web portfolio. You can also reach out to me o
 <code>☕</code> 
 
 💬 Ask me about anything, I am happy to help!
+
+### 🔧 Languages & Tools
+
+<!-- Programming Languages -->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C#"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++"></code>
+
+---
+
+<!-- Cloud & DevOps -->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" alt="GCP"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" alt="Kubernetes"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png" alt="Terraform"></code>
+
+---
+
+<!-- Back-End & Frameworks -->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" alt="Django"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png" alt="Redis"></code>
+
+---
+
+<!-- Databases -->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL"></code>
+
+---
+
+<!-- Front-End -->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS3"></code>
+
 
 
 
