@@ -2,10 +2,17 @@
 
 <img src="https://user-images.githubusercontent.com/40546398/148570918-43c0801c-9f68-4073-bd6c-bc3d4495eabb.gif" width="1000" height="80">
 
-[![React](https://img.shields.io/badge/React-Fan-FAC151.svg?logo=react&logoWidth=20)](https://github.com/gonzalez03t)
-[![Javascript](https://img.shields.io/badge/JavaScript-Fan-FAC151.svg?logo=javascript&logoWidth=20&logoColor=yellow)](https://github.com/gonzalez03t)
-[![C++](https://img.shields.io/badge/C++-Fan-FAC151.svg?logo=cplusplus&logoWidth=20&logoColor=blue)](https://github.com/gonzalez03t)
-[![GitHub gonzalez03td](https://img.shields.io/github/followers/gonzalez03t?label=follow&style=social)](https://github.com/gonzalez03t)
+[![Python](https://img.shields.io/badge/Python-Fan-3776AB.svg?logo=python&logoColor=white)](https://github.com/gonzalez03t)
+[![C#](https://img.shields.io/badge/C%23-Fan-239120.svg?logo=csharp&logoColor=white)](https://github.com/gonzalez03t)
+[![GCP](https://img.shields.io/badge/Google_Cloud-Fan-4285F4.svg?logo=googlecloud&logoColor=white)](https://github.com/gonzalez03t)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-Fan-326CE5.svg?logo=kubernetes&logoColor=white)](https://github.com/gonzalez03t)
+
+[![React](https://img.shields.io/badge/React-Fan-61DAFB.svg?logo=react&logoColor=black)](https://github.com/gonzalez03t)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Fan-F7DF1E.svg?logo=javascript&logoColor=black)](https://github.com/gonzalez03t)
+[![C++](https://img.shields.io/badge/C++-Fan-00599C.svg?logo=cplusplus&logoColor=white)](https://github.com/gonzalez03t)
+
+[![GitHub followers](https://img.shields.io/github/followers/gonzalez03t?label=follow&style=social)](https://github.com/gonzalez03t)
+
 
 💬 I’m a Senior Software Engineer based in Fort Lauderdale, Florida, specializing in cloud architecture, DevSecOps, and large-scale data and security platforms. I build and maintain production systems using technologies like Python, C#, JavaScript/TypeScript, React, Node.js, Kubernetes, Terraform, and Google Cloud.
 I’m passionate about automation, scalable infrastructure, and creating reliable, high-impact applications. On the side, I’m building a full-stack plant and landscape platform using Next.js, FastAPI, and PostgreSQL. Always learning, always building.  
