@@ -19,31 +19,11 @@ Feel free to connect with me on LinkedIn or reach out directly via email. Always
 <!-- Email badge (click to open email client) -->
 [![Email](https://img.shields.io/badge/Email-jgonzalez03t%40gmail.com-green?logo=gmail&logoColor=white)](mailto:jgonzalez03t@gmail.com)
 
-
-#### 🔭 Languages and tools:
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
-<code>☕</code> 
-
 💬 Ask me about anything, I am happy to help!
 
 ### 🔧 Languages & Tools
 
-<!-- Programming Languages -->
+#### 🔭 Programming Languages:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C#"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"></code>
@@ -51,9 +31,7 @@ Feel free to connect with me on LinkedIn or reach out directly via email. Always
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++"></code>
 
----
-
-<!-- Cloud & DevOps -->
+#### 🔭 Cloud & DevOps:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" alt="GCP"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" alt="Kubernetes"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker"></code>
