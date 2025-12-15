@@ -14,9 +14,11 @@ I’m passionate about automation, scalable infrastructure, and creating reliabl
 
 You can view some of my work on my web portfolio. You can also reach out to me on LinkedIn or through email. 
 
-[![Web Portfolio](https://img.shields.io/badge/-💻_Web_Portfolio-orange?)](https://www.jgonzalez.dev)
-[![Linkedin: jesus-gonzalez](https://img.shields.io/badge/-gonzalez03t-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gonzalez03t/)](https://www.linkedin.com/in/gonzalez03t/)
-[![email](https://img.shields.io/badge/-📫_email-green?)](http://jgonzalez.dev/#contact)
+<!-- LinkedIn badge -->
+[![LinkedIn: Jesus Gonzalez](https://img.shields.io/badge/LinkedIn-jesus--gonzalez-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-gonzalez-198363326/)
+<!-- Email badge (click to open email client) -->
+[![Email](https://img.shields.io/badge/Email-jgonzalez03t%40gmail.com-green?logo=gmail&logoColor=white)](mailto:jgonzalez03t@gmail.com)
+
 
 #### 🔭 Languages and tools:
 
